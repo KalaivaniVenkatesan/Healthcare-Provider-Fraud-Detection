@@ -192,19 +192,19 @@ Healthcare-Provider-Fraud-Detection
 
 ### Executive Overview
 
-![Executive](Images/Executive dashboard.png)
+![Executive](Images/Executive-dashboard.png)
 
 ### Financial Analysis
 
-![Financial](Images/Financial analysis.png)
+![Financial](Images/Financial-analysis.png)
 
 ### Clinical Analysis
 
-![Clinical](Images/Clinical analysis.png)
+![Clinical](Images/Clinical-analysis.png)
 
 ### Fraud Risk Analysis
 
-![Fraud](Images/Fraud risk.png)
+![Fraud](Images/Fraud-risk.png)
 ---
 
 ## Future Improvements
