@@ -184,7 +184,27 @@ Healthcare-Provider-Fraud-Detection
 │
 └── README.md
 ```
+## Dashboard Preview
 
+### Home Page
+
+![Home](Images/Home-Page.png)
+
+### Executive Overview
+
+![Executive](Images/Executive.png)
+
+### Financial Analysis
+
+![Financial](Images/Financial analysis.png)
+
+### Clinical Analysis
+
+![Clinical](Images/Clinical.png)
+
+### Fraud Risk Analysis
+
+![Fraud](Images/Fraud risk.png)
 ---
 
 ## Future Improvements
