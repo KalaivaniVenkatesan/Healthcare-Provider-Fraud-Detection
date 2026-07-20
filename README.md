@@ -188,23 +188,23 @@ Healthcare-Provider-Fraud-Detection
 
 ### Home Page
 
-![Home](Images/Home-Page.png)
+![Home](Images/01-Home-Page.png)
 
 ### Executive Overview
 
-![Executive](Images/Executive-dashboard.png)
+![Executive](Images/02-Executive-dashboard.png)
 
 ### Financial Analysis
 
-![Financial](Images/Financial-analysis.png)
+![Financial](Images/03-Financial-analysis.png)
 
 ### Clinical Analysis
 
-![Clinical](Images/Clinical-analysis.png)
+![Clinical](Images/04-Clinical-analysis.png)
 
 ### Fraud Risk Analysis
 
-![Fraud](Images/Fraud-risk.png)
+![Fraud](Images/05-Fraud-risk.png)
 ---
 
 ## Future Improvements
