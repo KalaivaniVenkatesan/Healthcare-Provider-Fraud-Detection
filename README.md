@@ -206,6 +206,25 @@ Healthcare-Provider-Fraud-Detection
 
 ![Fraud](Images/05-Fraud-risk.png)
 ---
+## How to Run
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/KalaivaniVenkatesan/Healthcare-Provider-Fraud-Detection.git
+```
+
+2. Install dependencies.
+
+```bash
+pip install -r Streamlit/requirements.txt
+```
+
+3. Run the Streamlit application.
+
+```bash
+streamlit run Streamlit/app.py
+```
 
 ## Future Improvements
 
